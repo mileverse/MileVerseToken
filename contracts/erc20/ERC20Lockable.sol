@@ -66,6 +66,7 @@ abstract contract ERC20Lockable is ERC20, Ownable {
 
     function transferWithLockUp(address recipient, uint256 amount, uint256 due)
         external
+        onlyOwner
         returns (bool success)
     {
         require(
