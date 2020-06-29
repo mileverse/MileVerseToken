@@ -1,7 +1,7 @@
 # MileVerse Token Repository
 
 ### Info
-MileVerse Token 은 ERc-20 계열의 토큰으로 이더리움 메인넷에 배포되어 있는 자사 토큰입니다.
+MileVerse Token 은 ERc-20 계열의 토큰으로 이더리움 메인넷에 배포되어 있는 자사 토큰입니다.<br>
 자사 App을 통해 얻은 MVP를 MVC(MileVerse Token) 으로 교환할 수 있습니다.
 
 ### Code Audit
