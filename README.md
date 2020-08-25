@@ -22,7 +22,8 @@ Etherscan - https://etherscan.io/token/0x581911b360B6eB3a14eF295a83a91DC2bCE2D6f
 
 ### Info & Social Network
 WebSite - https://www.mileverse.com <br>
-WhitePaper - https://bit.ly/36WG2hM <br>
+WhitePaper(KR) - https://drive.google.com/file/d/1xuifltQOWcW1P9CH2mIYq8PBXhc3ruxY/view <br>
+WhitePaper(EN) - https://drive.google.com/file/d/1lUH4fnsnpI8bCrgpFKa0mPPttV7yNHJn/view <br>
 Facebook - http://bit.ly/38oyMLe <br>
 Blog - https://blog.naver.com/mileverse <br>
 Kakao Open Chat - https://open.kakao.com/o/gd2Z8dZb
