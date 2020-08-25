@@ -8,8 +8,8 @@ MileVerse Token 은 MileVerse 에서 제작한 ERC-20 계열의 토큰으로 이
 App기능을 통해 가맹점에서 현금처럼 사용하거나 쉽게 MileVerse Token 으로 교환하여 사용자 접근성을 높여 Token Economy를 활성화 시킵니다.
 
 ### Token Audit
-MVC는 slow mist (https://www.slowmist.com) 에서 <br>
-이더리움 메인넷에 배포되어 있는 0x581911b360B6eB3a14eF295a83a91DC2bCE2D6f7 에 대해 <br>
+MileVerse Team은 slow mist (https://www.slowmist.com) 에서 <br>
+이더리움 메인넷에 배포되어 있는 MVC(0x581911b360B6eB3a14eF295a83a91DC2bCE2D6f7)에 대해 <br>
 smart contart security audit을 받았습니다.
 
 ### Code Audit
